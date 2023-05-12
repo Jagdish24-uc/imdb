@@ -11,6 +11,8 @@ To search for a movie, enter a search term in the search bar at the top of the p
 <h1 style="font-size: 24px;">Viewing Movie Details</h1>
 To view the details of a specific movie, click on its poster in the search results. This will take you to a new page that displays the movie's details, including its poster, title, year, plot, and other information.
  
-#preview
+ <h1 style="font-size: 20px;">preview Details</h1>
+ 1
+ 
 ![miniimdb2](https://github.com/Jagdish24-uc/imdb/assets/71270068/ca40898a-6d00-4e85-8fb4-b14dfd3d085d)
 ![miniimdb](https://github.com/Jagdish24-uc/imdb/assets/71270068/0847dd24-6e26-4eae-9dfa-92c93960d372)
