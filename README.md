@@ -1,4 +1,4 @@
-#MINI IMDB USING OMBD API
+<h1 style="font-size: 36px;"> MINI IMDB USING OMBD API</h1>
 This is a simple web app that allows you to search for movies using the OMDb API. You can also view the details of a specific movie by clicking on its poster in the search results. Additionally, you can add your favorite movies to a favorites list.
 
 #Getting Started
